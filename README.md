@@ -4,7 +4,7 @@ This repository contains the official implementation and reproducibility pipelin
 
 ---
 
-## 📝 Reproducibility and Audit Guidelines for Reviewers
+## 📝 Reproducibility and Audit Guidelines 
 
 To ensure full transparency and compliance with open-science principles, the entire experimental pipeline—including automated weak supervision labeling, theological distillation via Maximum Marginal Relevance (MMR), and baseline benchmarking—has been fully externalized and automated. Reviewers can replicate our exact empirical tables by following the protocols below:
 
