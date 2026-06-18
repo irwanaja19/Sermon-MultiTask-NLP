@@ -10,7 +10,7 @@ To ensure full transparency and compliance with open-science principles, the ent
 
 ### 🔗 Artifact Repositories
 * **Source Code Repository:** [GitHub Repository](https://github.com/irwanaja19/Sermon-MultiTask-NLP)
-* **Remote Dataset Hub:** [Hugging Face Dataset](https://huggingface.co/datasets/irwan19/khutbah-balanced-v2)
+* **Remote Dataset Hub:open file and version** [Hugging Face Dataset](https://huggingface.co/datasets/irwan19/khutbah-balanced-v2)
 * **Pre-trained Core Model:** [Hugging Face Model Hub](https://huggingface.co/irwan19/albertir-quran-hadith)
 
 ### 🚀 Step-by-Step Replication Protocol
