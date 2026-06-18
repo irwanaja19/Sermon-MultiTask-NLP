@@ -9,7 +9,7 @@ This repository contains the official implementation and reproducibility pipelin
 To ensure full transparency and compliance with open-science principles, the entire experimental pipeline—including automated weak supervision labeling, theological distillation via Maximum Marginal Relevance (MMR), and baseline benchmarking—has been fully externalized and automated. Reviewers can replicate our exact empirical tables by following the protocols below:
 
 ### 🔗 Artifact Repositories
-* **Source Code Repository:** [GitHub Repository](https://github.com/USERNAME/Sermon-MultiTask-NLP) *(Silakan ganti USERNAME dengan nama GitHub Anda)*
+* **Source Code Repository:** [GitHub Repository](https://github.com/irwanaja19/Sermon-MultiTask-NLP)
 * **Remote Dataset Hub:** [Hugging Face Dataset](https://huggingface.co/datasets/irwan19/khutbah-balanced-v2)
 * **Pre-trained Core Model:** [Hugging Face Model Hub](https://huggingface.co/irwan19/albertir-quran-hadith)
 
