@@ -19,3 +19,4 @@ To ensure full transparency and compliance with open-science principles, the ent
 2. **Launch in Google Colab:** Click the **"Open in Colab"** badge displayed at the top of the notebook file to port the environment seamlessly into a cloud instance.
 3. **Hardware Configuration (Crucial):** Before execution, change the hardware accelerator to a GPU instance. In the Google Colab top menu, navigate to **Runtime** $\rightarrow$ **Change runtime type**, select **T4 GPU** under Hardware Accelerator, and click **Save**.
 4. **Execute the Pipeline:** Run all cells sequentially or click **Runtime** $\rightarrow$ **Run all**.
+   <img width="859" height="323" alt="Image" src="https://github.com/user-attachments/assets/009dd523-d138-4a72-8489-634f95c09096" />
